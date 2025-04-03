@@ -1,0 +1,4 @@
+HealthPotion,A Potion That Gives Health,q56iop,11,0,0,
+ArmorPotion,A Potion That Gives Armor,q7890w,0,8,0,
+DamagePotion,A Potion That Gives Damage Boost,q7890a,0,0,10,
+Armor,a simple rustic armor,q7890l,0,10,0,

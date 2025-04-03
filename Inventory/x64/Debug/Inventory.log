@@ -1,0 +1,5 @@
+﻿  Inventory_Main.cpp
+C:\Amerike\POO\Inventory\Inventory\Inventory_Main.cpp(188,98): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Amerike\POO\Inventory\Inventory\Inventory_Main.cpp(188,73): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Amerike\POO\Inventory\Inventory\Inventory_Main.cpp(188,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Inventory.vcxproj -> C:\Amerike\POO\Inventory\x64\Debug\Inventory.exe
