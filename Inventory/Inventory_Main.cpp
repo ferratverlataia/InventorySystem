@@ -71,8 +71,9 @@ public:
 class Inventory
 {
 private:
-	//Usamos un mapa para poder almacenar los objetos en el inventario.
+	//This Map is our Count for the inventory
 	std::map<std::string, int> ItemCountInventory;
+	//the information of items is stored in this vector
 	std::vector<Item>  Items;
 public:
 	Inventory(const std::vector<Item>  ItemsToRegister)
@@ -120,7 +121,7 @@ public:
 	}
 
 
-
+	//Its a while true because we return a value to break the flow of the loop
 	int PickAnItem() 
 	{
 		while (true) {
@@ -174,7 +175,7 @@ public:
 
 };
 
-
+//obtain a  item.txt file an convert it to item  
 Item  GenerateItemFromString(const std::string& line) 
 {
 	std::stringstream linestringsteam(line);
